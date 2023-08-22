@@ -1,6 +1,8 @@
-# Shoko Itou
+<body>
+    <img src="b9763d398d581a8a2916ea94682c8c4c.gif" alt="Profile Banner">
+</body>
 
-![Profile Banner](https://example.com/banner-image.png)
+# Shoko Itou
 
 ## UX/UI Designer at Lael Corp
 
